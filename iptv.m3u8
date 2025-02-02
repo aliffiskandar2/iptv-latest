@@ -361,6 +361,81 @@ https://live.hkdvb.com/hls/live/78.m3u8?token=660938530706219
 https://live.hkdvb.com/hls/live/76.m3u8?token=660938530706219
 #EXTINF:-1 group-title="HKDVB",ViuTV
 https://live.hkdvb.com/hls/live/99.m3u8?token=660938530706219
+
+#EXTINF:-1 group-title="Hong Kong and Macau",Phoenix Chinese Channel
+mitv://135.148.104.228:19806/d897c583969747fc8a362653e01faf4f
+#EXTINF:-1 group-title="Hong Kong and Macau",Phoenix Chinese Channel 2
+http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="Hong Kong and Macau",Phoenix Chinese Channel 3
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="Hong Kong and Macau",Phoenix InfoNews
+mitv://135.148.104.228:19806/d207c4a98e784d1299a9aa63268f21c6
+#EXTINF:-1 group-title="Hong Kong and Macau",Phoenix InfoNews 2
+mitv://135.148.104.228:19806/3f7b6ed02526445e89ce536992d04ef5
+#EXTINF:-1 group-title="Hong Kong and Macau",Phoenix Hong Kong Channel
+mitv://135.148.104.228:19806/51ed8623722a469f8caa15a0e12a6761
+#EXTINF:-1 group-title="Hong Kong and Macau",RTHK 31
+mitv://135.148.104.228:19806/c7cd517a9e5b44a9b6037c90f998627f
+#EXTINF:-1 group-title="Hong Kong and Macau",RTHK 32
+mitv://135.148.104.228:19806/8ef4a2b7bac54aba8b17dfd2071df91f
+#EXTINF:-1 group-title="Hong Kong and Macau",HOY TV
+mitv://135.148.104.228:19806/532d47eca340456a814ba21cc5e68a52
+#EXTINF:-1 group-title="Hong Kong and Macau",TVB Jade (Backup)
+mitv://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
+#EXTINF:-1 group-title="Hong Kong and Macau",TVB Plus
+mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6
+#EXTINF:-1 group-title="Hong Kong and Macau",TVB News (Backup)
+mitv://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
+#EXTINF:-1 group-title="Hong Kong and Macau",TVB Entertainment News
+mitv://135.148.104.228:19806/e77d39049c07479ab0ff57800c6e5b06
+#EXTINF:-1 group-title="Hong Kong and Macau",TVB News
+mitv://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
+#EXTINF:-1 group-title="Hong Kong and Macau",PopC
+mitv://135.148.104.228:19806/3ae0f859370b4f17baec42495be6f043
+#EXTINF:-1 group-title="Hong Kong and Macau",ViuTVsix
+mitv://135.148.104.228:19806/b6f920891ad9473ca6f839df7616f580
+#EXTINF:-1 group-title="Hong Kong and Macau",ViuTV
+mitv://135.148.104.228:19806/956aa1340cd5439689da84cff7a5eaae
+#EXTINF:-1 group-title="Hong Kong and Macau",TVB Xing He
+mitv://135.148.104.228:19806/e94f4c244af8464fb06eff4c9da250a6
+#EXTINF:-1 group-title="Hong Kong and Macau",Macau TV
+mitv://135.148.104.228:19806/b08e564af8cf49e2a0fadaf4978a04cf
+#EXTINF:-1 group-title="Hong Kong and Macau",Lotus Macau
+mitv://135.148.104.228:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8
+#EXTINF:-1 group-title="Hong Kong and Macau",HKC 18
+mitv://135.148.104.228:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
+#EXTINF:-1 group-title="Hong Kong and Macau",Chinese Opera Channel
+mitv://135.148.104.228:19806/131a3f2bbae740fc982903c576a97920
+#EXTINF:-1 group-title="Hong Kong and Macau",TVB Jade
+mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
+#EXTINF:-1 group-title="Hong Kong and Macau",Millennium Classic
+mitv://135.148.104.228:19806/b3069418cdff4c69bb544e4b1ff04d56
+#EXTINF:-1 group-title="Hong Kong and Macau",Thrill
+mitv://135.148.104.228:19806/d20fff7aa7d64ab19d2a39da2970734a
+#EXTINF:-1 group-title="Hong Kong and Macau",Pearl TV
+mitv://135.148.104.228:19806/066930b0d2764f05a9b8a0019efe82fe
+#EXTINF:-1 group-title="Hong Kong and Macau",Now Finance
+mitv://135.148.104.228:19806/f0dd1f92af2845c2abd2ff29aff2b8ca
+#EXTINF:-1 group-title="Hong Kong and Macau",Mei Ah Movies (Cantonese)
+mitv://135.148.104.228:19806/81ea49b841454e1c901ac507f231a581
+#EXTINF:-1 group-title="Hong Kong and Macau",Channel 18
+mitv://135.148.104.228:19806/2cd619b81446414fb605daa1e86bebd6
+#EXTINF:-1 group-title="Hong Kong and Macau",HOY Info
+mitv://135.148.104.228:19806/f40dc92cdc224868b83be4156ec315dc
+#EXTINF:-1 group-title="Hong Kong and Macau",Hands Up
+mitv://135.148.104.228:19806/7c21e515d5264c9fa21035456fd5024a
+#EXTINF:-1 group-title="Hong Kong and Macau",Cantonese Movies
+mitv://135.148.104.228:19806/3d6644cc478648c2952a8c69cb9fccf5
+#EXTINF:-1 group-title="Hong Kong and Macau",Asian Drama
+mitv://135.148.104.228:19806/08cc25f383fd45e8b063efb2b2708dbc
+#EXTINF:-1 group-title="Hong Kong and Macau",Kung Fu Channel
+mitv://135.148.104.228:19806/85398bbb5112406b95c5780d36d3a173
+#EXTINF:-1 group-title="Hong Kong and Macau",Now News
+mitv://135.148.104.228:19806/86a69c6de155405ba916819e2634aa74
+#EXTINF:-1 group-title="Hong Kong and Macau",HKIBC
+mitv://135.148.104.228:19806/bddf0c6b88474142a2cab7219a93af54
+#EXTINF:-1 group-title="Hong Kong and Macau",TVB Jade Gold
+mitv://135.148.104.228:19806/1444d681fb1b44d4a20ff001c2bb2f7c
 #EXTINF:-1 group-title="HKDVB",ViuTV Six
 https://live.hkdvb.com/hls/live/96.m3u8?token=660938530706219
 #EXTINF:-1 group-title="HKDVB",HBO
