@@ -1,0 +1,253 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" group-title="Singapore",Channel 5
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476325.ts
+#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" group-title="Singapore",Channel 8
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477032.ts
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" group-title="Singapore",Channel U
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476327.ts
+#EXTINF:-1 tvg-id="Suria.sg" tvg-name="Suria" group-title="Singapore",Suria
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476316.m3u8
+#EXTINF:-1 tvg-id="Vasantham.sg" tvg-name="Vasantham" group-title="Singapore",Vasantham
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476319.m3u8
+#EXTINF:-1 tvg-id="HubVVDrama.sg" tvg-name="Hub VV Drama" group-title="Singapore",Hub VV Drama
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/624975.ts
+#EXTINF:-1 tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1" group-title="Sports",Hub Premier 1
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/487013.ts
+#EXTINF:-1 tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2" group-title="Sports",Hub Premier 2
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/487014.ts
+#EXTINF:-1 tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3" group-title="Sports",Hub Premier 3
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/487015.ts
+#EXTINF:-1 tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4" group-title="Sports",Hub Premier 4
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/487016.ts
+#EXTINF:-1 tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5" group-title="Sports",Hub Premier 5
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/487017.ts
+#EXTINF:-1 tvg-id="HubSports1.sg" tvg-name="Hub Sports 1" group-title="Sports",Hub Sports 1
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/486293.ts
+#EXTINF:-1 tvg-id="HubSports2.sg" tvg-name="Hub Sports 2" group-title="Sports",Hub Sports 2
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/486325.ts
+#EXTINF:-1 tvg-id="HubSports3.sg" tvg-name="Hub Sports 3" group-title="Sports",Hub Sports 3
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/486326.ts
+#EXTINF:-1 tvg-id="HubSports4.sg" tvg-name="Hub Sports 4" group-title="Sports",Hub Sports 4
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/486327.ts
+#EXTINF:-1 tvg-id="HubSports5.sg" tvg-name="Hub Sports 5" group-title="Sports",Hub Sports 5
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/486328.ts
+#EXTINF:-1 tvg-id="tvN.kr" tvg-name="TVN" group-title="Korea",TVN
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477799.ts
+#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPOTV" group-title="Sports",SPOTV
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/482155.ts
+#EXTINF:-1 tvg-id="ONE.sg" tvg-name="ONE" group-title="Malaysia",ONE
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/487008.ts
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" group-title="Malaysia",Astro Ria
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605063.ts
+#EXTINF:-1 tvg-id="AstroSensasi.my" tvg-name="Astro Sensasi" group-title="Malaysia",Astro Sensasi
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/511422.ts
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" group-title="Malaysia",TV1
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476317.m3u8
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" group-title="Malaysia",TV2
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476320.m3u8
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" group-title="Malaysia",TV3
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476324.m3u8
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" group-title="Malaysia",Astro Prima
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605095.ts
+#EXTINF:-1 tvg-id="AlHijrah.my" tvg-name="Al Hijrah" group-title="Malaysia",Al Hijrah
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605046.ts
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" group-title="Malaysia",NTV7
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476323.ts
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Malaysia",8TV
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476322.ts
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" group-title="Malaysia",TV9
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476321.m3u8
+#EXTINF:-1 tvg-id="AstroAEC.my" tvg-name="Astro AEC" group-title="Chinese",Astro AEC
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605049.ts
+#EXTINF:-1 tvg-id="CCM.hk" tvg-name="CCM" group-title="Movies",CCM
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477801.ts
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-name="TVBS News" group-title="News",TVBS News
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/494223.ts
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-name="CCTV4" group-title="Chinese",CCTV4
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476884.ts
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" group-title="News",Astro Awani
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476315.ts
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="Nat Geo Wild" group-title="Documentary",Nat Geo Wild
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476642.ts
+#EXTINF:-1 tvg-id="AXN.sg" tvg-name="AXN" group-title="Entertainment",AXN
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476871.ts
+#EXTINF:-1 tvg-id="KIX.hk" tvg-name="KIX" group-title="Entertainment",KIX
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476312.m3u8
+#EXTINF:-1 tvg-id="NBCGolf.us" tvg-name="NBC Golf" group-title="Sports",NBC Golf
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476655.ts
+#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="HITS Movies" group-title="Movies",HITS Movies
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477809.ts
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena" group-title="Sports",Astro Arena
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476309.ts
+#EXTINF:-1 tvg-id="TVBJ2.hk" tvg-name="TVB J2" group-title="Hong Kong",TVB J2
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476933.ts
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" group-title="Sports",MUTV
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477552.ts
+#EXTINF:-1 tvg-id="HBOFamily.asia" tvg-name="HBO Family" group-title="Movies",HBO Family
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476622.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.asia" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477066.ts
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary",BBC Earth
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605099.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.asia" tvg-name="Animal Planet" group-title="Documentary",Animal Planet
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477088.ts
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" group-title="News",CNA
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476307.ts
+#EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="Astro Cricket" group-title="Sports",Astro Cricket
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476314.ts
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" group-title="Lifestyle",HGTV
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476328.ts
+#EXTINF:-1 tvg-id="BBCLifestyle.uk" tvg-name="BBC Lifestyle" group-title="Lifestyle",BBC Lifestyle
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605073.ts
+#EXTINF:-1 tvg-id="BBC.uk" tvg-name="BBC" group-title="News",BBC
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476671.ts
+#EXTINF:-1 tvg-id="AFCHongKong.hk" tvg-name="AFC" group-title="Lifestyle",AFC
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477787.ts
+#EXTINF:-1 tvg-id="AstroAOD350.my" tvg-name="Astro AOD 350" group-title="Chinese",Astro AOD 350
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477788.ts
+#EXTINF:-1 tvg-id="AstroAOD352.my" tvg-name="Astro AOD 352" group-title="Chinese",Astro AOD 352
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605090.ts
+#EXTINF:-1 tvg-id="AstroAOD354.my" tvg-name="Astro AOD 354" group-title="Chinese",Astro AOD 354
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605089.ts
+#EXTINF:-1 tvg-id="AstroSports1.my" tvg-name="Astro Sports 1" group-title="Sports",Astro Sports 1
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605091.ts
+#EXTINF:-1 tvg-id="AstroSports2.my" tvg-name="Astro Sports 2" group-title="Sports",Astro Sports 2
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605092.ts
+#EXTINF:-1 tvg-id="AstroSports3.my" tvg-name="Astro Sports 3" group-title="Sports",Astro Sports 3
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605093.ts
+#EXTINF:-1 tvg-id="AstroSports4.my" tvg-name="Astro Sports 4" group-title="Sports",Astro Sports 4
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605094.ts
+#EXTINF:-1 tvg-id="AstroQuanJia.my" tvg-name="Astro Quan Jia" group-title="Chinese",Astro Quan Jia
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605062.ts
+#EXTINF:-1 tvg-id="Adithya.in" tvg-name="Adithya" group-title="Indian",Adithya
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477804.ts
+#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="beIN Sports" group-title="Sports",beIN Sports
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477807.ts
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" group-title="News",Bloomberg TV
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477810.ts
+#EXTINF:-1 tvg-id="CinemaWorld.sg" tvg-name="Cinema World" group-title="Movies",Cinema World
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477817.ts
+#EXTINF:-1 tvg-id="Cinemax.asia" tvg-name="Cinemax" group-title="Movies",Cinemax
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477811.ts
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" group-title="News",ABC News
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476618.ts
+#EXTINF:-1 tvg-id="Aniplus.asia" tvg-name="Aniplus" group-title="Kids",Aniplus
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477806.ts
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" group-title="Malaysia",Astro Warna
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605065.ts
+#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="SPOTV2" group-title="Sports",SPOTV2
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477565.ts
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" group-title="Kids",Astro Ceria
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605097.ts
+#EXTINF:-1 tvg-id="AstroArena2.my" tvg-name="Astro Arena 2" group-title="Sports",Astro Arena 2
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605059.ts
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" group-title="Korea",KBS World
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605077.ts
+#EXTINF:-1 tvg-id="Nickelodeon.asia" tvg-name="Nickelodeon" group-title="Kids",Nickelodeon
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605052.ts
+#EXTINF:-1 tvg-id="OkeyTV.my" tvg-name="OKEY TV" group-title="Malaysia",OKEY TV
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605051.ts
+#EXTINF:-1 tvg-id="tvNMovies.kr" tvg-name="tvN Movies" group-title="Movies",tvN Movies
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605080.ts
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="WWE Network" group-title="Sports",WWE Network
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605056.ts
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" group-title="Malaysia",Astro Oasis
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605045.ts
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" group-title="Malaysia",Astro Citra
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605064.ts
+#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania" group-title="Malaysia",Astro Rania
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605043.ts
+#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura" group-title="Malaysia",Astro Aura
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605044.ts
+#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" group-title="Malaysia",TVS
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605047.ts
+#EXTINF:-1 tvg-id="AwesomeTV.my" tvg-name="Awesome TV" group-title="Malaysia",Awesome TV
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605048.ts
+#EXTINF:-1 tvg-id="TutorTV.my" tvg-name="Tutor TV SMK" group-title="Education",Tutor TV SMK
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605050.ts
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" group-title="Sports",Golf Channel
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605075.ts
+#EXTINF:-1 tvg-id="WarnerTV.asia" tvg-name="Warner TV" group-title="Entertainment",Warner TV
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605055.ts
+#EXTINF:-1 tvg-id="TVBMagic.hk" tvg-name="TVB Magic" group-title="Hong Kong",TVB Magic
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605058.ts
+#EXTINF:-1 tvg-id="AstroArenaBola.my" tvg-name="Astro Arena Bola" group-title="Sports",Astro Arena Bola
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605060.ts
+#EXTINF:-1 tvg-id="AstroArenaBola2.my" tvg-name="Astro Arena Bola 2" group-title="Sports",Astro Arena Bola 2
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605061.ts
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" group-title="News",CNBC
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477644.ts
+#EXTINF:-1 tvg-id="Vellithirai.my" tvg-name="Vellithirai" group-title="Indian",Vellithirai
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605068.ts
+#EXTINF:-1 tvg-id="Tadaa.my" tvg-name="Ta-Daa!" group-title="Kids",Ta-Daa!
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605096.ts
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World" group-title="News",NHK World
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605076.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.asia" tvg-name="Discovery Channel" group-title="Documentary",Discovery Channel
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605100.ts
+#EXTINF:-1 tvg-id="DiscoveryAsia.asia" tvg-name="Discovery Asia" group-title="Documentary",Discovery Asia
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605084.ts
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" group-title="Kids",CBeebies
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605088.ts
+#EXTINF:-1 tvg-id="Moonbug.us" tvg-name="Moonbug Kids" group-title="Kids",Moonbug Kids
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605087.ts
+#EXTINF:-1 tvg-id="NickJr.asia" tvg-name="Nick Jr" group-title="Kids",Nick Jr
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605086.ts
+#EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks" group-title="Kids",DreamWorks
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605085.ts
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News",CGTN
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605083.ts
+#EXTINF:-1 tvg-id="ShowcaseMovies.my" tvg-name="Showcase Movies" group-title="Movies",Showcase Movies
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605082.ts
+#EXTINF:-1 tvg-id="Boo.my" tvg-name="BOO" group-title="Movies",BOO
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605081.ts
+#EXTINF:-1 tvg-id="KPlus.kr" tvg-name="K-Plus" group-title="Korea",K-Plus
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605079.ts
+#EXTINF:-1 tvg-id="MTV.asia" tvg-name="MTV Asia" group-title="Entertainment",MTV Asia
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605074.ts
+#EXTINF:-1 tvg-id="DMAX.asia" tvg-name="DMAX" group-title="Documentary",DMAX
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605072.ts
+#EXTINF:-1 tvg-id="CrimeInvestigation.asia" tvg-name="Crime Investigation" group-title="Documentary",Crime Investigation
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605071.ts
+#EXTINF:-1 tvg-id="SunMusic.in" tvg-name="Sun Music" group-title="Indian",Sun Music
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605069.ts
+#EXTINF:-1 tvg-id="Vaanavil.my" tvg-name="Vaanavil" group-title="Indian",Vaanavil
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605067.ts
+#EXTINF:-1 tvg-id="ColorsHindi.in" tvg-name="Colors Hindi" group-title="Indian",Colors Hindi
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605066.ts
+#EXTINF:-1 tvg-id="AstroPremier.my" tvg-name="Astro Premier" group-title="Movies",Astro Premier
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605057.ts
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports" group-title="Sports",Premier Sports
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605098.ts
+#EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" group-title="Indian",Zee Tamil
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/605070.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1" group-title="Sports",Eurosport 1
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/481192.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2" group-title="Sports",Eurosport 2
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/481193.ts
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX HD" group-title="Entertainment",FOX HD
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477723.ts
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO East" group-title="Movies",HBO East
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476633.ts
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" group-title="News",Fox News
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476620.ts
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC TV" group-title="Entertainment",NBC TV
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476619.ts
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="FOX Business" group-title="News",FOX Business
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476621.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FOX Sports 2" group-title="Sports",FOX Sports 2
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477700.ts
+#EXTINF:-1 tvg-id="HBO.asia" tvg-name="HBO" group-title="Movies",HBO
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477731.ts
+#EXTINF:-1 tvg-id="HBOExtreme.la" tvg-name="HBO Extreme" group-title="Movies",HBO Extreme
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477737.ts
+#EXTINF:-1 tvg-id="HBOHits.asia" tvg-name="HBO Hits" group-title="Movies",HBO Hits
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476972.ts
+#EXTINF:-1 tvg-id="HBOMundi.la" tvg-name="HBO Mundi" group-title="Movies",HBO Mundi
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477735.ts
+#EXTINF:-1 tvg-id="HBOPlus.la" tvg-name="HBO Plus" group-title="Movies",HBO Plus
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477733.ts
+#EXTINF:-1 tvg-id="HBOPop.la" tvg-name="HBO Pop" group-title="Movies",HBO Pop
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477734.ts
+#EXTINF:-1 tvg-id="HBOSignature.asia" tvg-name="HBO Signature" group-title="Movies",HBO Signature
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477736.ts
