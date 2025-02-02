@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-name="凤凰中文" group-title="Hong Kong",凤凰中文
+http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfoNews" tvg-name="凤凰资讯台" group-title="Hong Kong",凤凰资讯台
+mitv://135.148.104.228:19806/d207c4a98e784d1299a9aa63268f21c6
+#EXTINF:-1 tvg-id="PhoenixHongKong" tvg-name="凤凰香港台" group-title="Hong Kong",凤凰香港台
+mitv://135.148.104.228:19806/51ed8623722a469f8caa15a0e12a6761
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="港台电视31" group-title="Hong Kong",港台电视31
+mitv://135.148.104.228:19806/c7cd517a9e5b44a9b6037c90f998627f
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="港台电视32" group-title="Hong Kong",港台电视32
+mitv://135.148.104.228:19806/8ef4a2b7bac54aba8b17dfd2071df91f
+#EXTINF:-1 tvg-id="HOYTV" tvg-name="HOY TV" group-title="Hong Kong",HOY TV
+mitv://135.148.104.228:19806/532d47eca340456a814ba21cc5e68a52
+#EXTINF:-1 tvg-id="TVBJade" tvg-name="翡翠台" group-title="Hong Kong",翡翠台
+mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVB Plus" group-title="Hong Kong",TVB Plus
+mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
+#EXTINF:-1 tvg-id="TVBNews" tvg-name="无线新闻台" group-title="Hong Kong",无线新闻台
+mitv://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
+#EXTINF:-1 tvg-id="TVBEntNews" tvg-name="TVB娱乐新闻台" group-title="Hong Kong",TVB娱乐新闻台
+mitv://135.148.104.228:19806/e77d39049c07479ab0ff57800c6e5b06
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" group-title="Hong Kong",ViuTVsix
+mitv://135.148.104.228:19806/b6f920891ad9473ca6f839df7616f580
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" group-title="Hong Kong",ViuTV
+mitv://135.148.104.228:19806/956aa1340cd5439689da84cff7a5eaae
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB星河" group-title="Hong Kong",TVB星河
+mitv://135.148.104.228:19806/e94f4c244af8464fb06eff4c9da250a6
+#EXTINF:-1 tvg-id="MacauLotus" tvg-name="澳门莲花" group-title="Macau",澳门莲花
+mitv://135.148.104.228:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8
+#EXTINF:-1 tvg-id="HKC18" tvg-name="HKC 18" group-title="Hong Kong",HKC 18
+mitv://135.148.104.228:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
+
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" group-title="Taiwan",TVBS
+mitv://135.148.104.228:19806/5fe15c41a5ed4d5f9262ee28464c45c0
+#EXTINF:-1 tvg-id="TVBSNews" tvg-name="TVBS新闻台" group-title="Taiwan",TVBS新闻台
+mitv://135.148.104.228:19806/53f80a10fb054d5ab0649a59980025a9
+#EXTINF:-1 tvg-id="EBCNews" tvg-name="东森新闻台" group-title="Taiwan",东森新闻台
+mitv://135.148.104.228:19806/311e31668d704df7ade8a4d5e745d49b
+#EXTINF:-1 tvg-id="CTiNews" tvg-name="中天新闻台" group-title="Taiwan",中天新闻台
+mitv://135.148.104.228:19806/1180a44e6cef425e826c3e798f7f3ea9
+
+#EXTINF:-1 tvg-id="beINSports" tvg-name="beIN Sports" group-title="Sports",beIN Sports
+mitv://135.148.104.228:19806/9215bd8182d04b67a9285f24816321df
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2" group-title="Sports",beIN Sports 2
+mitv://135.148.104.228:19806/23d14199213c426092f9e1002f0f143f
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" group-title="Sports",beIN Sports 3
+mitv://135.148.104.228:19806/377e62e57ccb4a128195cb09fe8b107f
+
+#EXTINF:-1 tvg-id="CNNInternational" tvg-name="CNN" group-title="News",CNN International
+mitv://135.148.104.228:19806/88e503d015b54c75866ce86732601017
+#EXTINF:-1 tvg-id="BBCWorldNews" tvg-name="BBC World News" group-title="News",BBC World News
+mitv://135.148.104.228:19806/68b66fcb526a469c95968a8a62c27f01
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" group-title="News",Bloomberg TV
+mitv://135.148.104.228:19806/b7a11fd04a2f4a44acdab32693edee1e
