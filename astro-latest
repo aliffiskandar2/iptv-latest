@@ -1415,9 +1415,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #EXTINF:-1 tvg-id="astro386" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",611 Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd|User-Agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-id="astro371" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",615 Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
